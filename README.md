@@ -1,21 +1,22 @@
 # Ryan Noon
-## head of analytics @ [Dropbox](http://dropbox.com)
+## 
 ### *[rmnoon@cs.stanford.edu](mailto:rmnoon@cs.stanford.edu)*
 
-***I work on...***
-* leading the greatest analytics engineers in the industry
+***I work on***
+* leading the greatest data engineers in the industry
 * creating beautiful applications with data
 * running a gigantic data platform for a hypergrowth company
 * high-performance data visualization
 * novel analysis methods for "big data"
 
-***In the past...***
+***In the past***
+* head of analytics @ [Dropbox](http://dropbox.com), 2014-2016
 * cofounder, [Parastructure](http://www.crunchbase.com/organization/parastructure), 2012-2014 (acquired by Dropbox)
 * Lead engineer, [Ayasdi](http://ayasdi.com), 2010-2012
 * [Stanford Computer Science](http://cs.stanford.edu) BS '09, MS '11
 * [TA](http://cs107.stanford.edu), [Section Leader](http://cs198.stanford.edu) @ Stanford
 
-***I've made...***
+***I've made***
 * [a graph visualizer capable of displaying million node graphs](http://www.youtube.com/watch?v=xwvR1p3LNhA&t=17m48s)
 * [a low-latency memoized distributed RPC system backed by HBase](http://ayasdi.com)
 * [a novel graph construction for mining document corpora](files/entity_graphs.pdf)
